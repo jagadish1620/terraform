@@ -4,8 +4,8 @@ module "standard" {
   aws_secret_key        = ""
   aws_key_pair          = ""
   aws_region            = "us-east-1"
-  aws_domain_name       = "kasm.contoso.com"
-  project_name          = "contoso"
+  aws_domain_name       = "kasm.wrk.com"
+  project_name          = "vmyard-qa"
   num_agents            = "2"
   num_webapps           = "2"
 
